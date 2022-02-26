@@ -57,4 +57,28 @@ public class ClasePrincipal {
         else return "MUY ALTO";
     }
 
+    public static float media(String[] datos){   //Itera sobre el Array palabras, tomo los elementos de la posicion 1 y calculo la media
+        float sumaElementos=0;
+        for (String dato : datos) {      //La lógica es como en el array palabras usado para el conceptoCierre
+            sumaElementos += Float.parseFloat(dato);
+        }
+        return sumaElementos/ datos.length;
+    }
+
+    public static double desviacionEstandar(String[] datos){
+        float mediaDeLosDatos = media(datos);
+        float sumatoriaDistanciasCuadradas=0;
+        float distanciaConLaMedia;
+        /*El array datos usado para los metodos media y varianza contiene los valores de apertura
+            de cada día, navegando en el solo se encuentran numeros en Strings
+
+            Por lo tanto, cuando se lean los datos hay que crear un array aparte con los datos
+            de la posicion 1 del vector palabras para cada línea(Aún falta hacerlo)
+         */
+        for(String valor:datos){
+            distanciaConLaMedia = Float.parseFloat(valor) - mediaDeLosDatos;
+            sumatoriaDistanciasCuadradas += Math.pow(distanciaConLaMedia,2);
+        }
+        return Math.sqrt(sumatoriaDistanciasCuadradas/datos.length);
+    }
 }
