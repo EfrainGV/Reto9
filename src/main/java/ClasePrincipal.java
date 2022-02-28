@@ -23,6 +23,8 @@ public class ClasePrincipal {
             escribirLineaPorLinea(ruta1 , ruta2);
             System.out.println("Media: "+media(ruta1));
             System.out.println("Desviación estándar: "+desviacionEstandar(ruta1));
+            System.out.println("Fecha de valor maximo: "+valorMax(ruta1)[0]+"   Valor: "+valorMax(ruta1)[1]);
+            System.out.println("Fecha de valor minimo: "+valorMin(ruta1)[0]+"   Valor: "+valorMin(ruta1)[1]);
         } catch (IOException e) {
             System.out.println("Error" + e.getMessage());
         }
@@ -113,22 +115,24 @@ public class ClasePrincipal {
         return Math.sqrt(sumatoriaDistanciasCuadradas/i-1);
     }
 
-    public static String[] valorMax(List<String> lineasConPrecios){
+    public static String[] valorMax(String rutaLeer) throws IOException {
         int i=1;
         int j=i+1;
         double datoMax = 0;
+        String[] palabras;
+        String[] palabrasSiguientes;
         String fechaDato = null;
-        while (i < lineasConPrecios.size() && j < lineasConPrecios.size()-1) {
-            String lineaActual = lineasConPrecios.get(i);
-            String lineaSiguiente = lineasConPrecios.get(j);
-            String[] datosDeLaLinea = lineaActual.split(",");
-            String[] datosDeLaLineaSiguiente = lineaSiguiente.split(",");
-            if(Double.parseDouble(datosDeLaLinea[2]) > Double.parseDouble(datosDeLaLineaSiguiente[2])){
-                fechaDato = datosDeLaLinea[0];
-                datoMax = Double.parseDouble(datosDeLaLinea[2]);
+        while (LeerLineaPorLinea(rutaLeer, j) != null) {
+            palabras = LeerLineaPorLinea(rutaLeer , i);
+            palabrasSiguientes = LeerLineaPorLinea(rutaLeer , j);
+            assert palabras != null;
+            assert palabrasSiguientes != null;
+            if(Double.parseDouble(palabras[2]) > Double.parseDouble(palabrasSiguientes[2])){
+                fechaDato = palabras[0];
+                datoMax = Double.parseDouble(palabras[2]);
             }else{
-                fechaDato = datosDeLaLineaSiguiente[0];
-                datoMax = Double.parseDouble(datosDeLaLineaSiguiente[2]);
+                fechaDato = palabrasSiguientes[0];
+                datoMax = Double.parseDouble(palabrasSiguientes[2]);
                 i=j;
             }
             j++;
@@ -136,22 +140,24 @@ public class ClasePrincipal {
         return new String[]{fechaDato,Double.toString(datoMax)};
     }
 
-    public static String[] valorMin(List<String> lineasConPrecios){
+    public static String[] valorMin(String rutaLeer) throws IOException {
         int i=1;
         int j=i+1;
         double datoMin = 0;
+        String[] palabras;
+        String[] palabrasSiguientes;
         String fechaDato = null;
-        while (i < lineasConPrecios.size() && j < lineasConPrecios.size()-1) {
-            String lineaActual = lineasConPrecios.get(i);
-            String lineaSiguiente = lineasConPrecios.get(j);
-            String[] datosDeLaLinea = lineaActual.split(",");
-            String[] datosDeLaLineaSiguiente = lineaSiguiente.split(",");
-            if(Double.parseDouble(datosDeLaLinea[3]) < Double.parseDouble(datosDeLaLineaSiguiente[3])){
-                fechaDato = datosDeLaLinea[0];
-                datoMin = Double.parseDouble(datosDeLaLinea[3]);
+        while (LeerLineaPorLinea(rutaLeer, j) != null) {
+            palabras = LeerLineaPorLinea(rutaLeer , i);
+            palabrasSiguientes = LeerLineaPorLinea(rutaLeer , j);
+            assert palabras != null;
+            assert palabrasSiguientes != null;
+            if(Double.parseDouble(palabras[3]) < Double.parseDouble(palabrasSiguientes[3])){
+                fechaDato = palabras[0];
+                datoMin = Double.parseDouble(palabras[3]);
             }else{
-                fechaDato = datosDeLaLineaSiguiente[0];
-                datoMin = Double.parseDouble(datosDeLaLineaSiguiente[3]);
+                fechaDato = palabrasSiguientes[0];
+                datoMin = Double.parseDouble(palabrasSiguientes[3]);
                 i=j;
             }
             j++;

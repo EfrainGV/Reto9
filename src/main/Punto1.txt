@@ -1,0 +1,366 @@
+Fecha: 2021-01-01	Concepto de cierre: MUY BAJO
+Fecha: 2021-01-02	Concepto de cierre: BAJO
+Fecha: 2021-01-03	Concepto de cierre: BAJO
+Fecha: 2021-01-04	Concepto de cierre: BAJO
+Fecha: 2021-01-05	Concepto de cierre: BAJO
+Fecha: 2021-01-06	Concepto de cierre: BAJO
+Fecha: 2021-01-07	Concepto de cierre: BAJO
+Fecha: 2021-01-08	Concepto de cierre: MEDIO
+Fecha: 2021-01-09	Concepto de cierre: MEDIO
+Fecha: 2021-01-10	Concepto de cierre: BAJO
+Fecha: 2021-01-11	Concepto de cierre: BAJO
+Fecha: 2021-01-12	Concepto de cierre: BAJO
+Fecha: 2021-01-13	Concepto de cierre: BAJO
+Fecha: 2021-01-14	Concepto de cierre: BAJO
+Fecha: 2021-01-15	Concepto de cierre: BAJO
+Fecha: 2021-01-16	Concepto de cierre: BAJO
+Fecha: 2021-01-17	Concepto de cierre: BAJO
+Fecha: 2021-01-18	Concepto de cierre: BAJO
+Fecha: 2021-01-19	Concepto de cierre: BAJO
+Fecha: 2021-01-20	Concepto de cierre: BAJO
+Fecha: 2021-01-21	Concepto de cierre: BAJO
+Fecha: 2021-01-22	Concepto de cierre: BAJO
+Fecha: 2021-01-23	Concepto de cierre: BAJO
+Fecha: 2021-01-24	Concepto de cierre: BAJO
+Fecha: 2021-01-25	Concepto de cierre: BAJO
+Fecha: 2021-01-26	Concepto de cierre: BAJO
+Fecha: 2021-01-27	Concepto de cierre: BAJO
+Fecha: 2021-01-28	Concepto de cierre: BAJO
+Fecha: 2021-01-29	Concepto de cierre: BAJO
+Fecha: 2021-01-30	Concepto de cierre: BAJO
+Fecha: 2021-01-31	Concepto de cierre: BAJO
+Fecha: 2021-02-01	Concepto de cierre: BAJO
+Fecha: 2021-02-02	Concepto de cierre: BAJO
+Fecha: 2021-02-03	Concepto de cierre: BAJO
+Fecha: 2021-02-04	Concepto de cierre: BAJO
+Fecha: 2021-02-05	Concepto de cierre: BAJO
+Fecha: 2021-02-06	Concepto de cierre: BAJO
+Fecha: 2021-02-07	Concepto de cierre: BAJO
+Fecha: 2021-02-08	Concepto de cierre: MEDIO
+Fecha: 2021-02-09	Concepto de cierre: MEDIO
+Fecha: 2021-02-10	Concepto de cierre: MEDIO
+Fecha: 2021-02-11	Concepto de cierre: MEDIO
+Fecha: 2021-02-12	Concepto de cierre: MEDIO
+Fecha: 2021-02-13	Concepto de cierre: MEDIO
+Fecha: 2021-02-14	Concepto de cierre: MEDIO
+Fecha: 2021-02-15	Concepto de cierre: MEDIO
+Fecha: 2021-02-16	Concepto de cierre: MEDIO
+Fecha: 2021-02-17	Concepto de cierre: ALTO
+Fecha: 2021-02-18	Concepto de cierre: ALTO
+Fecha: 2021-02-19	Concepto de cierre: ALTO
+Fecha: 2021-02-20	Concepto de cierre: ALTO
+Fecha: 2021-02-21	Concepto de cierre: ALTO
+Fecha: 2021-02-22	Concepto de cierre: ALTO
+Fecha: 2021-02-23	Concepto de cierre: MEDIO
+Fecha: 2021-02-24	Concepto de cierre: MEDIO
+Fecha: 2021-02-25	Concepto de cierre: MEDIO
+Fecha: 2021-02-26	Concepto de cierre: MEDIO
+Fecha: 2021-02-27	Concepto de cierre: MEDIO
+Fecha: 2021-02-28	Concepto de cierre: MEDIO
+Fecha: 2021-03-01	Concepto de cierre: MEDIO
+Fecha: 2021-03-02	Concepto de cierre: MEDIO
+Fecha: 2021-03-03	Concepto de cierre: ALTO
+Fecha: 2021-03-04	Concepto de cierre: MEDIO
+Fecha: 2021-03-05	Concepto de cierre: MEDIO
+Fecha: 2021-03-06	Concepto de cierre: MEDIO
+Fecha: 2021-03-07	Concepto de cierre: ALTO
+Fecha: 2021-03-08	Concepto de cierre: ALTO
+Fecha: 2021-03-09	Concepto de cierre: ALTO
+Fecha: 2021-03-10	Concepto de cierre: ALTO
+Fecha: 2021-03-11	Concepto de cierre: ALTO
+Fecha: 2021-03-12	Concepto de cierre: ALTO
+Fecha: 2021-03-13	Concepto de cierre: MUY ALTO
+Fecha: 2021-03-14	Concepto de cierre: ALTO
+Fecha: 2021-03-15	Concepto de cierre: ALTO
+Fecha: 2021-03-16	Concepto de cierre: ALTO
+Fecha: 2021-03-17	Concepto de cierre: ALTO
+Fecha: 2021-03-18	Concepto de cierre: ALTO
+Fecha: 2021-03-19	Concepto de cierre: ALTO
+Fecha: 2021-03-20	Concepto de cierre: ALTO
+Fecha: 2021-03-21	Concepto de cierre: ALTO
+Fecha: 2021-03-22	Concepto de cierre: ALTO
+Fecha: 2021-03-23	Concepto de cierre: ALTO
+Fecha: 2021-03-24	Concepto de cierre: ALTO
+Fecha: 2021-03-25	Concepto de cierre: ALTO
+Fecha: 2021-03-26	Concepto de cierre: ALTO
+Fecha: 2021-03-27	Concepto de cierre: ALTO
+Fecha: 2021-03-28	Concepto de cierre: ALTO
+Fecha: 2021-03-29	Concepto de cierre: ALTO
+Fecha: 2021-03-30	Concepto de cierre: ALTO
+Fecha: 2021-03-31	Concepto de cierre: ALTO
+Fecha: 2021-04-01	Concepto de cierre: ALTO
+Fecha: 2021-04-02	Concepto de cierre: ALTO
+Fecha: 2021-04-03	Concepto de cierre: ALTO
+Fecha: 2021-04-04	Concepto de cierre: ALTO
+Fecha: 2021-04-05	Concepto de cierre: ALTO
+Fecha: 2021-04-06	Concepto de cierre: ALTO
+Fecha: 2021-04-07	Concepto de cierre: ALTO
+Fecha: 2021-04-08	Concepto de cierre: ALTO
+Fecha: 2021-04-09	Concepto de cierre: ALTO
+Fecha: 2021-04-10	Concepto de cierre: ALTO
+Fecha: 2021-04-11	Concepto de cierre: MUY ALTO
+Fecha: 2021-04-12	Concepto de cierre: ALTO
+Fecha: 2021-04-13	Concepto de cierre: MUY ALTO
+Fecha: 2021-04-14	Concepto de cierre: MUY ALTO
+Fecha: 2021-04-15	Concepto de cierre: MUY ALTO
+Fecha: 2021-04-16	Concepto de cierre: MUY ALTO
+Fecha: 2021-04-17	Concepto de cierre: MUY ALTO
+Fecha: 2021-04-18	Concepto de cierre: ALTO
+Fecha: 2021-04-19	Concepto de cierre: ALTO
+Fecha: 2021-04-20	Concepto de cierre: ALTO
+Fecha: 2021-04-21	Concepto de cierre: ALTO
+Fecha: 2021-04-22	Concepto de cierre: ALTO
+Fecha: 2021-04-23	Concepto de cierre: ALTO
+Fecha: 2021-04-24	Concepto de cierre: ALTO
+Fecha: 2021-04-25	Concepto de cierre: MEDIO
+Fecha: 2021-04-26	Concepto de cierre: ALTO
+Fecha: 2021-04-27	Concepto de cierre: ALTO
+Fecha: 2021-04-28	Concepto de cierre: ALTO
+Fecha: 2021-04-29	Concepto de cierre: ALTO
+Fecha: 2021-04-30	Concepto de cierre: ALTO
+Fecha: 2021-05-01	Concepto de cierre: ALTO
+Fecha: 2021-05-02	Concepto de cierre: ALTO
+Fecha: 2021-05-03	Concepto de cierre: ALTO
+Fecha: 2021-05-04	Concepto de cierre: ALTO
+Fecha: 2021-05-05	Concepto de cierre: ALTO
+Fecha: 2021-05-06	Concepto de cierre: ALTO
+Fecha: 2021-05-07	Concepto de cierre: ALTO
+Fecha: 2021-05-08	Concepto de cierre: ALTO
+Fecha: 2021-05-09	Concepto de cierre: ALTO
+Fecha: 2021-05-10	Concepto de cierre: ALTO
+Fecha: 2021-05-11	Concepto de cierre: ALTO
+Fecha: 2021-05-12	Concepto de cierre: MEDIO
+Fecha: 2021-05-13	Concepto de cierre: MEDIO
+Fecha: 2021-05-14	Concepto de cierre: MEDIO
+Fecha: 2021-05-15	Concepto de cierre: MEDIO
+Fecha: 2021-05-16	Concepto de cierre: MEDIO
+Fecha: 2021-05-17	Concepto de cierre: MEDIO
+Fecha: 2021-05-18	Concepto de cierre: MEDIO
+Fecha: 2021-05-19	Concepto de cierre: BAJO
+Fecha: 2021-05-20	Concepto de cierre: MEDIO
+Fecha: 2021-05-21	Concepto de cierre: BAJO
+Fecha: 2021-05-22	Concepto de cierre: BAJO
+Fecha: 2021-05-23	Concepto de cierre: BAJO
+Fecha: 2021-05-24	Concepto de cierre: BAJO
+Fecha: 2021-05-25	Concepto de cierre: BAJO
+Fecha: 2021-05-26	Concepto de cierre: BAJO
+Fecha: 2021-05-27	Concepto de cierre: BAJO
+Fecha: 2021-05-28	Concepto de cierre: BAJO
+Fecha: 2021-05-29	Concepto de cierre: BAJO
+Fecha: 2021-05-30	Concepto de cierre: BAJO
+Fecha: 2021-05-31	Concepto de cierre: BAJO
+Fecha: 2021-06-01	Concepto de cierre: BAJO
+Fecha: 2021-06-02	Concepto de cierre: BAJO
+Fecha: 2021-06-03	Concepto de cierre: BAJO
+Fecha: 2021-06-04	Concepto de cierre: BAJO
+Fecha: 2021-06-05	Concepto de cierre: BAJO
+Fecha: 2021-06-06	Concepto de cierre: BAJO
+Fecha: 2021-06-07	Concepto de cierre: BAJO
+Fecha: 2021-06-08	Concepto de cierre: BAJO
+Fecha: 2021-06-09	Concepto de cierre: BAJO
+Fecha: 2021-06-10	Concepto de cierre: BAJO
+Fecha: 2021-06-11	Concepto de cierre: BAJO
+Fecha: 2021-06-12	Concepto de cierre: BAJO
+Fecha: 2021-06-13	Concepto de cierre: BAJO
+Fecha: 2021-06-14	Concepto de cierre: MEDIO
+Fecha: 2021-06-15	Concepto de cierre: MEDIO
+Fecha: 2021-06-16	Concepto de cierre: BAJO
+Fecha: 2021-06-17	Concepto de cierre: BAJO
+Fecha: 2021-06-18	Concepto de cierre: BAJO
+Fecha: 2021-06-19	Concepto de cierre: BAJO
+Fecha: 2021-06-20	Concepto de cierre: BAJO
+Fecha: 2021-06-21	Concepto de cierre: BAJO
+Fecha: 2021-06-22	Concepto de cierre: BAJO
+Fecha: 2021-06-23	Concepto de cierre: BAJO
+Fecha: 2021-06-24	Concepto de cierre: BAJO
+Fecha: 2021-06-25	Concepto de cierre: BAJO
+Fecha: 2021-06-26	Concepto de cierre: BAJO
+Fecha: 2021-06-27	Concepto de cierre: BAJO
+Fecha: 2021-06-28	Concepto de cierre: BAJO
+Fecha: 2021-06-29	Concepto de cierre: BAJO
+Fecha: 2021-06-30	Concepto de cierre: BAJO
+Fecha: 2021-07-01	Concepto de cierre: BAJO
+Fecha: 2021-07-02	Concepto de cierre: BAJO
+Fecha: 2021-07-03	Concepto de cierre: BAJO
+Fecha: 2021-07-04	Concepto de cierre: BAJO
+Fecha: 2021-07-05	Concepto de cierre: BAJO
+Fecha: 2021-07-06	Concepto de cierre: BAJO
+Fecha: 2021-07-07	Concepto de cierre: BAJO
+Fecha: 2021-07-08	Concepto de cierre: BAJO
+Fecha: 2021-07-09	Concepto de cierre: BAJO
+Fecha: 2021-07-10	Concepto de cierre: BAJO
+Fecha: 2021-07-11	Concepto de cierre: BAJO
+Fecha: 2021-07-12	Concepto de cierre: BAJO
+Fecha: 2021-07-13	Concepto de cierre: BAJO
+Fecha: 2021-07-14	Concepto de cierre: BAJO
+Fecha: 2021-07-15	Concepto de cierre: BAJO
+Fecha: 2021-07-16	Concepto de cierre: BAJO
+Fecha: 2021-07-17	Concepto de cierre: BAJO
+Fecha: 2021-07-18	Concepto de cierre: BAJO
+Fecha: 2021-07-19	Concepto de cierre: BAJO
+Fecha: 2021-07-20	Concepto de cierre: MUY BAJO
+Fecha: 2021-07-21	Concepto de cierre: BAJO
+Fecha: 2021-07-22	Concepto de cierre: BAJO
+Fecha: 2021-07-23	Concepto de cierre: BAJO
+Fecha: 2021-07-24	Concepto de cierre: BAJO
+Fecha: 2021-07-25	Concepto de cierre: BAJO
+Fecha: 2021-07-26	Concepto de cierre: BAJO
+Fecha: 2021-07-27	Concepto de cierre: BAJO
+Fecha: 2021-07-28	Concepto de cierre: BAJO
+Fecha: 2021-07-29	Concepto de cierre: MEDIO
+Fecha: 2021-07-30	Concepto de cierre: MEDIO
+Fecha: 2021-07-31	Concepto de cierre: MEDIO
+Fecha: 2021-08-01	Concepto de cierre: BAJO
+Fecha: 2021-08-02	Concepto de cierre: BAJO
+Fecha: 2021-08-03	Concepto de cierre: BAJO
+Fecha: 2021-08-04	Concepto de cierre: BAJO
+Fecha: 2021-08-05	Concepto de cierre: MEDIO
+Fecha: 2021-08-06	Concepto de cierre: MEDIO
+Fecha: 2021-08-07	Concepto de cierre: MEDIO
+Fecha: 2021-08-08	Concepto de cierre: MEDIO
+Fecha: 2021-08-09	Concepto de cierre: MEDIO
+Fecha: 2021-08-10	Concepto de cierre: MEDIO
+Fecha: 2021-08-11	Concepto de cierre: MEDIO
+Fecha: 2021-08-12	Concepto de cierre: MEDIO
+Fecha: 2021-08-13	Concepto de cierre: MEDIO
+Fecha: 2021-08-14	Concepto de cierre: MEDIO
+Fecha: 2021-08-15	Concepto de cierre: MEDIO
+Fecha: 2021-08-16	Concepto de cierre: MEDIO
+Fecha: 2021-08-17	Concepto de cierre: MEDIO
+Fecha: 2021-08-18	Concepto de cierre: MEDIO
+Fecha: 2021-08-19	Concepto de cierre: MEDIO
+Fecha: 2021-08-20	Concepto de cierre: MEDIO
+Fecha: 2021-08-21	Concepto de cierre: MEDIO
+Fecha: 2021-08-22	Concepto de cierre: MEDIO
+Fecha: 2021-08-23	Concepto de cierre: MEDIO
+Fecha: 2021-08-24	Concepto de cierre: MEDIO
+Fecha: 2021-08-25	Concepto de cierre: MEDIO
+Fecha: 2021-08-26	Concepto de cierre: MEDIO
+Fecha: 2021-08-27	Concepto de cierre: MEDIO
+Fecha: 2021-08-28	Concepto de cierre: MEDIO
+Fecha: 2021-08-29	Concepto de cierre: MEDIO
+Fecha: 2021-08-30	Concepto de cierre: MEDIO
+Fecha: 2021-08-31	Concepto de cierre: MEDIO
+Fecha: 2021-09-01	Concepto de cierre: MEDIO
+Fecha: 2021-09-02	Concepto de cierre: MEDIO
+Fecha: 2021-09-03	Concepto de cierre: ALTO
+Fecha: 2021-09-04	Concepto de cierre: MEDIO
+Fecha: 2021-09-05	Concepto de cierre: ALTO
+Fecha: 2021-09-06	Concepto de cierre: ALTO
+Fecha: 2021-09-07	Concepto de cierre: MEDIO
+Fecha: 2021-09-08	Concepto de cierre: MEDIO
+Fecha: 2021-09-09	Concepto de cierre: MEDIO
+Fecha: 2021-09-10	Concepto de cierre: MEDIO
+Fecha: 2021-09-11	Concepto de cierre: MEDIO
+Fecha: 2021-09-12	Concepto de cierre: MEDIO
+Fecha: 2021-09-13	Concepto de cierre: MEDIO
+Fecha: 2021-09-14	Concepto de cierre: MEDIO
+Fecha: 2021-09-15	Concepto de cierre: MEDIO
+Fecha: 2021-09-16	Concepto de cierre: MEDIO
+Fecha: 2021-09-17	Concepto de cierre: MEDIO
+Fecha: 2021-09-18	Concepto de cierre: MEDIO
+Fecha: 2021-09-19	Concepto de cierre: MEDIO
+Fecha: 2021-09-20	Concepto de cierre: MEDIO
+Fecha: 2021-09-21	Concepto de cierre: MEDIO
+Fecha: 2021-09-22	Concepto de cierre: MEDIO
+Fecha: 2021-09-23	Concepto de cierre: MEDIO
+Fecha: 2021-09-24	Concepto de cierre: MEDIO
+Fecha: 2021-09-25	Concepto de cierre: MEDIO
+Fecha: 2021-09-26	Concepto de cierre: MEDIO
+Fecha: 2021-09-27	Concepto de cierre: MEDIO
+Fecha: 2021-09-28	Concepto de cierre: MEDIO
+Fecha: 2021-09-29	Concepto de cierre: MEDIO
+Fecha: 2021-09-30	Concepto de cierre: MEDIO
+Fecha: 2021-10-01	Concepto de cierre: MEDIO
+Fecha: 2021-10-02	Concepto de cierre: MEDIO
+Fecha: 2021-10-03	Concepto de cierre: MEDIO
+Fecha: 2021-10-04	Concepto de cierre: MEDIO
+Fecha: 2021-10-05	Concepto de cierre: ALTO
+Fecha: 2021-10-06	Concepto de cierre: ALTO
+Fecha: 2021-10-07	Concepto de cierre: ALTO
+Fecha: 2021-10-08	Concepto de cierre: ALTO
+Fecha: 2021-10-09	Concepto de cierre: ALTO
+Fecha: 2021-10-10	Concepto de cierre: ALTO
+Fecha: 2021-10-11	Concepto de cierre: ALTO
+Fecha: 2021-10-12	Concepto de cierre: ALTO
+Fecha: 2021-10-13	Concepto de cierre: ALTO
+Fecha: 2021-10-14	Concepto de cierre: ALTO
+Fecha: 2021-10-15	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-16	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-17	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-18	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-19	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-20	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-21	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-22	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-23	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-24	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-25	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-26	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-27	Concepto de cierre: ALTO
+Fecha: 2021-10-28	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-29	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-30	Concepto de cierre: MUY ALTO
+Fecha: 2021-10-31	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-01	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-02	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-03	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-04	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-05	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-06	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-07	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-08	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-09	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-10	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-11	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-12	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-13	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-14	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-15	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-16	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-17	Concepto de cierre: MUY ALTO
+Fecha: 2021-11-18	Concepto de cierre: ALTO
+Fecha: 2021-11-19	Concepto de cierre: ALTO
+Fecha: 2021-11-20	Concepto de cierre: ALTO
+Fecha: 2021-11-21	Concepto de cierre: ALTO
+Fecha: 2021-11-22	Concepto de cierre: ALTO
+Fecha: 2021-11-23	Concepto de cierre: ALTO
+Fecha: 2021-11-24	Concepto de cierre: ALTO
+Fecha: 2021-11-25	Concepto de cierre: ALTO
+Fecha: 2021-11-26	Concepto de cierre: ALTO
+Fecha: 2021-11-27	Concepto de cierre: ALTO
+Fecha: 2021-11-28	Concepto de cierre: ALTO
+Fecha: 2021-11-29	Concepto de cierre: ALTO
+Fecha: 2021-11-30	Concepto de cierre: ALTO
+Fecha: 2021-12-01	Concepto de cierre: ALTO
+Fecha: 2021-12-02	Concepto de cierre: ALTO
+Fecha: 2021-12-03	Concepto de cierre: ALTO
+Fecha: 2021-12-04	Concepto de cierre: MEDIO
+Fecha: 2021-12-05	Concepto de cierre: MEDIO
+Fecha: 2021-12-06	Concepto de cierre: ALTO
+Fecha: 2021-12-07	Concepto de cierre: ALTO
+Fecha: 2021-12-08	Concepto de cierre: ALTO
+Fecha: 2021-12-09	Concepto de cierre: MEDIO
+Fecha: 2021-12-10	Concepto de cierre: MEDIO
+Fecha: 2021-12-11	Concepto de cierre: MEDIO
+Fecha: 2021-12-12	Concepto de cierre: ALTO
+Fecha: 2021-12-13	Concepto de cierre: MEDIO
+Fecha: 2021-12-14	Concepto de cierre: MEDIO
+Fecha: 2021-12-15	Concepto de cierre: MEDIO
+Fecha: 2021-12-16	Concepto de cierre: MEDIO
+Fecha: 2021-12-17	Concepto de cierre: MEDIO
+Fecha: 2021-12-18	Concepto de cierre: MEDIO
+Fecha: 2021-12-19	Concepto de cierre: MEDIO
+Fecha: 2021-12-20	Concepto de cierre: MEDIO
+Fecha: 2021-12-21	Concepto de cierre: MEDIO
+Fecha: 2021-12-22	Concepto de cierre: MEDIO
+Fecha: 2021-12-23	Concepto de cierre: ALTO
+Fecha: 2021-12-24	Concepto de cierre: ALTO
+Fecha: 2021-12-25	Concepto de cierre: ALTO
+Fecha: 2021-12-26	Concepto de cierre: ALTO
+Fecha: 2021-12-27	Concepto de cierre: ALTO
+Fecha: 2021-12-28	Concepto de cierre: MEDIO
+Fecha: 2021-12-29	Concepto de cierre: MEDIO
+Fecha: 2021-12-30	Concepto de cierre: MEDIO
+Fecha: 2021-12-31	Concepto de cierre: MEDIO
+Fecha: 2022-01-01	Concepto de cierre: MEDIO
